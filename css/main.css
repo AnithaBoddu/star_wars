@@ -1,0 +1,48 @@
+main {
+  
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #252525;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+header{
+	background-color: orange;
+	
+	
+}
+
+img{
+	width: 100%;
+}
+
+
+.image {
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.content{
+	padding: 20px;
+}
+
+.content h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.content p {
+  margin: 0.5em 0;
+}
+
